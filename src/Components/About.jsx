@@ -62,7 +62,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm a full-stack developer studying at Kharkiv National University of Economics. I enjoy creating unique and efficient solutions for both the frontend and backend, merging functionality with design.";
 
 const About = () => {
   return (
