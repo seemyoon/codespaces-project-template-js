@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a full-stack developer studying at Kharkiv National University of Economics. I enjoy creating unique and efficient solutions for both the frontend and backend, merging functionality with design.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -62,7 +62,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'm a full-stack developer studying at Kharkiv National University of Economics. I enjoy creating unique and efficient solutions for both the frontend and backend, merging functionality with design.";
+  "As a full-stack developer, I strive to bridge the gap between innovative design and robust functionality. My goal is to create impactful solutions that blend creativity and technology, ensuring a seamless user experience.";
 
 const About = () => {
   return (
