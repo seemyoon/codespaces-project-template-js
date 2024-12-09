@@ -27201,7 +27201,7 @@ var _mosaicJpgDefault = parcelHelpers.interopDefault(_mosaicJpg);
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a full-stack developer studying at Kharkiv National University of Economics. I enjoy creating unique and efficient solutions for both the frontend and backend, merging functionality with design.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27234,7 +27234,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I'm a full-stack developer studying at Kharkiv National University of Economics. I enjoy creating unique and efficient solutions for both the frontend and backend, merging functionality with design.";
+ */ const detailOrQuote = "As a full-stack developer, I strive to bridge the gap between innovative design and robust functionality. My goal is to create impactful solutions that blend creativity and technology, ensuring a seamless user experience.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
